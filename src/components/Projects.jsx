@@ -23,7 +23,7 @@ const Projects = () => {
       {
         title: "Student Study Portal",
         description: "A full-featured web application to help students organize their academic activities. Features include notes management, homework deadlines, YouTube integration, to-do lists, dictionary, and Wikipedia search — all within a clean, responsive interface. Built with robust authentication using JWT.",
-        tech: ["Python", "MySQL", "Bootstrap", "JWT", "Flask/Django"],
+        tech: ["Python", "MySQL", "Bootstrap", "JWT", "Django"],
         image: "/images/student-portal.png", 
         demo: "https://student-portal-a9sw.onrender.com/", 
         code: "https://github.com/suegathu/student_portal", 

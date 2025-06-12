@@ -22,6 +22,8 @@ const Skills = () => {
             "Python",
             "Django",
             "Django Rest Framework",
+            "Php",
+            "Laravel",
         ],
             icon: Zap 
         },
@@ -30,6 +32,8 @@ const Skills = () => {
             "PostgreSQL", 
             "MySQL", 
             "MongoDB", 
+            "GraphQL",
+            "SQLite3"
             
         ], 
         icon: Server 
@@ -40,6 +44,8 @@ const Skills = () => {
             "Docker", 
             "Figma", 
             "Vercel/Render", 
+            "Xampp",
+            "Jira",
             
         ], 
         icon: Palette 

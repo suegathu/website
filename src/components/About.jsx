@@ -16,7 +16,7 @@ const About = () => {
             </p>
 
             <p className="text-lg text-slate-300 leading-relaxed">
-              My core tech stack includes the MERN stack (MongoDB, Express, React, Node.js), along with Tailwind CSS, Bootstrap, and Django with Django Rest Framework. I'm also proficient with PostgreSQL, MySQL, SQLite3, and tools like Docker, Postman, Git, and Jira. I thrive in agile environments and value writing clean, maintainable code while continuously learning and growing as a developer.
+              My core tech stack includes the MERN stack (MongoDB, Express, React, Node.js), along with Tailwind CSS, Bootstrap, Django with Django Rest Framework, Laravel, and PHP. I'm also proficient with PostgreSQL, MySQL, SQLite3, and tools like Docker, Postman, Git, and Jira. I thrive in agile environments and value writing clean, maintainable code while continuously learning and growing as a developer.
             </p>
           </div>
 
